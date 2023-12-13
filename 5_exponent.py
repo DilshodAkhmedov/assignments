@@ -1,2 +1,2 @@
 def expo(a, b):
-    # a ^ b
+    return a^b
